@@ -1,7 +1,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhqdXE2d2syMXdjN21wMmtxOXB3MjNkMTlpb3NmMjBxY2Q0MGoxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlNwI5ULEqhqlBS/giphy.gif"  />
+<img align="center" height="180" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhqdXE2d2syMXdjN21wMmtxOXB3MjNkMTlpb3NmMjBxY2Q0MGoxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlNwI5ULEqhqlBS/giphy.gif"  />
 
 ###
 
@@ -19,8 +19,7 @@
 
 ###
 
-<div align="center
-">
+<div align="left">
   <a href="https://www.linkedin.com/in/josé-eduardo-de-lima/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
