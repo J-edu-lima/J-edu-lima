@@ -1,4 +1,3 @@
-<h2 align="left">Desenvolvedor Java que nunca fez uma pokédex.</h2>
 
 ###
 
